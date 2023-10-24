@@ -1,4 +1,4 @@
-name: run-tests-until-end-of-time
+name: test.workflow
 on:
   push:
     branches:  master
