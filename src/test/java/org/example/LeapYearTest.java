@@ -1,3 +1,5 @@
+package org.example;
+
 import org.example.LeapYearChecker;
 import org.junit.jupiter.api.Test;
 
